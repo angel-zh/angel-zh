@@ -1,15 +1,14 @@
-<!-- - 👋 Hi, I’m Angel!
-- 👀 I’m interested in ... coding and drawing!
-- 🌱 I’m currently learning ... software development and creating full stack apps.
-- 💞️ I’m looking to collaborate on ... full stack app development.
-- 📫 How to reach me ... https://angel-zhou.netlify.app/ -->
 
 <div align='center'>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&color=FF7AAA&background=100C2700&center=true&multiline=true&repeat=false&width=435&height=80&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
-
+  
+  ### Social
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-q-zhou/)
 [![Netlify](https://img.shields.io/badge/portfolio-%23ff5a5f.svg?style=flat&logo=netlify&logoColor=white)](https://angel-zhou.netlify.app/)
+  
+  ### Skill Set
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -31,6 +30,7 @@
 ![Clip Studio Paint](https://shields.io/badge/clip%20studio%20paint-0AC18E?style=flat-square)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angel-zh&theme=dracula&border_radius=5&fire=69DDD1&stroke=69DDD1&dates=C0ECE6)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
