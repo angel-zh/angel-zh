@@ -1,7 +1,7 @@
 
 <div align='center'>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&color=FF7AAA&background=100C2700&center=true&multiline=true&repeat=false&width=435&height=80&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&color=FF7AAA&background=100C2700&center=true&multiline=true&repeat=false&width=435&height=80&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
   
   ### Social
   
