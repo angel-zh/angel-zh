@@ -1,10 +1,15 @@
 
 <div align='center'>
 
-   ![My Illustration](https://i.imgur.com/hOH4H2H.png)
+![My Illustration](https://i.imgur.com/4C2GICB.png)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=350&color=FF7AAA&center=true&width=435&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
 
+ I'm a :books: teacher turned :computer: software engineer. <br>
+ My interests are :computer: coding, :art: drawing, and :ramen: cooking. <br>
+ I'm currently working on building an :computer: e-commerce website. <br>
+ Talk to me about dogs, and the possibility of starting an awesome project together (about dogs? Even better).
+   
   #### Connect With Me
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-q-zhou/)
@@ -32,7 +37,8 @@
 ![Clip Studio Paint](https://shields.io/badge/clip%20studio%20paint-0AC18E?style=flat-square)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
-  
+  #### My GitHub Stats
+   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angel-zh&theme=dracula&border_radius=5&fire=69DDD1&stroke=69DDD1&dates=C0ECE6)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
