@@ -1,14 +1,16 @@
 
 <div align='center'>
+
+   ![My Illustration](https://i.imgur.com/hOH4H2H.png)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&color=FF7AAA&background=100C2700&center=true&multiline=true&repeat=true&width=435&height=80&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
-  
-  ### Social
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=350&color=FF7AAA&center=true&width=435&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
+
+  #### Connect With Me
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-q-zhou/)
 [![Netlify](https://img.shields.io/badge/portfolio-%23ff5a5f.svg?style=flat&logo=netlify&logoColor=white)](https://angel-zhou.netlify.app/)
   
-  ### Skill Set
+  #### Skill Set
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
