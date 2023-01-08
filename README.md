@@ -10,9 +10,9 @@
  I'm currently working on building an :computer: e-commerce website.
    
   ### Connect With Me
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-q-zhou/)
-[![Netlify](https://img.shields.io/badge/portfolio-%23ff5a5f.svg?style=flat&logo=netlify&logoColor=white)](https://angel-zhou.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-%2335BDB2.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://angel-zhou.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23EC5990.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aiyapetstudio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-q-zhou/)
   
   ### Skill Set
   
@@ -33,7 +33,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Clip Studio Paint](https://shields.io/badge/clip%20studio%20paint-0AC18E?style=flat-square)
+![Clip Studio Paint](https://shields.io/badge/clip%20studio%20paint-DB7093?style=flat-square)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
   ### My GitHub Stats
