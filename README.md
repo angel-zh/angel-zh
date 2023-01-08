@@ -9,12 +9,12 @@
  My interests are :computer: coding, :art: drawing, and :ramen: cooking. <br>
  I'm currently working on building an :computer: e-commerce website.
    
-  #### Connect With Me
+  ### Connect With Me
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-q-zhou/)
 [![Netlify](https://img.shields.io/badge/portfolio-%23ff5a5f.svg?style=flat&logo=netlify&logoColor=white)](https://angel-zhou.netlify.app/)
   
-  #### Skill Set
+  ### Skill Set
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@
 ![Clip Studio Paint](https://shields.io/badge/clip%20studio%20paint-0AC18E?style=flat-square)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
-  #### My GitHub Stats
+  ### My GitHub Stats
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angel-zh&theme=dracula&border_radius=5&fire=69DDD1&stroke=69DDD1&dates=C0ECE6)](https://git.io/streak-stats)
  
