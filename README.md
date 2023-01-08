@@ -7,8 +7,7 @@
 
  I'm a :books: teacher turned :computer: software engineer. <br>
  My interests are :computer: coding, :art: drawing, and :ramen: cooking. <br>
- I'm currently working on building an :computer: e-commerce website. <br>
- Talk to me about dogs, and the possibility of starting an awesome project together (about dogs? Even better).
+ I'm currently working on building an :computer: e-commerce website.
    
   #### Connect With Me
   
