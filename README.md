@@ -3,7 +3,7 @@
 
 ![My Illustration](https://i.imgur.com/4C2GICB.png)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2500&pause=350&color=FF7AAA&center=true&width=435&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2800&pause=350&color=FF7AAA&center=true&width=435&lines=Hi%2C+I'm+Angel.;Welcome+to+my+little+coding+corner!)](https://git.io/typing-svg)
 
  I'm a :books: teacher turned :computer: software engineer. <br>
  My interests are :computer: coding, :art: drawing, and :ramen: cooking. <br>
