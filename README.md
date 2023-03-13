@@ -42,7 +42,7 @@
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angel-zh&theme=dracula&border_radius=5&fire=69DDD1&stroke=69DDD1&dates=C0ECE6)](https://git.io/streak-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zh&theme=dracula&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
  
 ![Views](https://komarev.com/ghpvc/?username=angel-zh&style=flat-square&color=DB7093&label=VIEWS)
 </div>
