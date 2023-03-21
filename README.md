@@ -11,12 +11,12 @@
    :heavy_minus_sign: a Chrome extension for LinkedIn jobs <br>
    :heavy_minus_sign: an e-commerce website using Ruby on Rails and React.
 
-    ### Connect With Me
+  ### Connect With Me
   [![Portfolio](https://img.shields.io/badge/portfolio-%2335BDB2.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://angel-zhou.netlify.app/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23EC5990.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aiyapetstudio/)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-q-zhou/)
 
-    ### Skill Set
+  ### Skill Set
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@
   ![Clip Studio Paint](https://shields.io/badge/clip%20studio%20paint-DB7093?style=flat-square)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 
-    ### My GitHub Stats
+  ### My GitHub Stats
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angel-zh&theme=dracula&border_radius=5&fire=69DDD1&stroke=69DDD1&dates=C0ECE6)](https://git.io/streak-stats)
 
