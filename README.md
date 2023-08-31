@@ -8,7 +8,7 @@
    I'm a :books: teacher turned :computer: software engineer. <br>
    My interests are :computer: coding, :art: drawing, and :ramen: cooking. <br>
    During my free time, I'm building... <br>
-   :heavy_minus_sign: an e-commerce website using Ruby on Rails and React.
+   :heavy_minus_sign: an e-commerce website using Ruby on Rails and React. <br>
    I'm currently working as a Junior Front-End Developer at kidpik Corp.
 
   ### Connect With Me
