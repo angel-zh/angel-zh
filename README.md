@@ -7,9 +7,9 @@
 
    I'm a :books: teacher turned :computer: software engineer. <br>
    My interests are :computer: coding, :art: drawing, and :ramen: cooking. <br>
-   I'm currently working on building... <br>
-   :heavy_minus_sign: a Chrome extension for LinkedIn jobs <br>
+   During my free time, I'm building... <br>
    :heavy_minus_sign: an e-commerce website using Ruby on Rails and React.
+   I'm currently working as a Junior Front-End Developer at kidpik Corp.
 
   ### Connect With Me
   [![Portfolio](https://img.shields.io/badge/portfolio-%2335BDB2.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://angel-zhou.netlify.app/)
